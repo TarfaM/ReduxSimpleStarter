@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SearchBox from './src/components/search_bar';
+import SearchBox from './components/search_bar';
 
 const API_KET ='AIzaSyDQFvodu-pZT5dsOww6wESwtznjcP8NtgM';
 //create a componet
